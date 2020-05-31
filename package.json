@@ -1,0 +1,25 @@
+{
+"name": "datossci",
+  "version": "1.0.0",
+  "description": "Formulario de recolección de datos de Suficiencia y capacidad instalada",
+  "keywords": [
+    "noderun",
+    "profound",
+    "profoundjs",
+    "pjs",
+    "profound logic",
+    "profoundlogic",
+    "profound ui",
+    "profoundui"
+  ],
+  "dependencies": {
+    "profoundjs": ""
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node start.js"
+  },
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "private": true,
+  "optionalDependencies": {}
+}
